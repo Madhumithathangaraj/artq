@@ -1,0 +1,6 @@
+{
+  "name": "ARTQ - Art That Speaks",
+  "description": "Fine art portfolio and studio featuring Portrait Art, Digital Art, and Original Works with a warm cream and earthy aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
